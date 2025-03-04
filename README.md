@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Cristian Vuolo 👋
 
 I'm a seasoned developer with over 12 years of experience, and for the past 3 years, I've been honing my skills as a Site Reliability Engineer (SRE). I thrive on solving complex challenges, automating tasks, and building resilient, scalable systems.
@@ -25,4 +24,3 @@ I'm a seasoned developer with over 12 years of experience, and for the past 3 ye
 
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing new ideas!
-```
