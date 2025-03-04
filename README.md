@@ -14,9 +14,6 @@ I'm a seasoned developer with over 12 years of experience, and for the past 3 ye
 - **Scripting & Automation:** Bash, Python, Shell Scripting
 - **DevOps Tools:** Docker, Terraform, CI/CD tools
 
-## 📈 My GitHub Stats
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianvuolo&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 - [GitHub](https://github.com/cristianvuolo)
 - [LinkedIn](https://www.linkedin.com/in/cristianvuolo/)
